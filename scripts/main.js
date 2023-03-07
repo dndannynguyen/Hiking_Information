@@ -133,4 +133,4 @@ displayCardsDynamically("hikes");  //input param is the name of the collection
 
 insertName(); //run the function
 readQuote("tuesday");        //calling the function
-writeHikes()
+writeHikes();

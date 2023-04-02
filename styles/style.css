@@ -19,3 +19,6 @@
     overflow-y: auto; /* add vertical scrollbar if content overflows */
 }
 
+.material-icons{
+  cursor: pointer;
+}
